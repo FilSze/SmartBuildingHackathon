@@ -1,0 +1,17 @@
+[
+    {
+        "weekd":"monday",
+        "start":"8:00",
+        "stop":"9:00"
+    },
+    {
+        "weekd":"monday",
+        "start":"10:00",
+        "stop":"11:30"
+    },
+    {
+        "weekd":"friday",
+        "start":"13:00",
+        "stop":"13:30"
+    }
+]
