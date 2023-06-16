@@ -1,6 +1,6 @@
 # SmartBuildingHackathon
 
-The *main idea* is to design a smart system for controlling your lifestyle.
+The *main idea* is to design a smart system for improving your lifestyle.
 
 ### Components of the system:
 - gathering user data
